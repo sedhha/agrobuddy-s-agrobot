@@ -1,2 +1,1 @@
-# agrobuddy-s-agrobot
-A fully automated 4 wheeled robot that can navigate through the field and fetch data like soil structure, atmospheric conditions and crop data which are important parameters in estimating the health and life of the crop. This data is analysed and intelligent decisions are made to increase the productiveness of farming. It also collects data from APIs to get weather forecasts and physical parameters like rainfall, humidity, etc.
+# Agrobuddy-s-Agrobot
